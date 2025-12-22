@@ -5,3 +5,6 @@ D:\CDAC\M8_DotNet\Dot_Net\Assignment1\BasicCalculator\obj\Debug\BasicCalculator.
 D:\CDAC\M8_DotNet\Dot_Net\Assignment1\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
 D:\CDAC\M8_DotNet\Dot_Net\Assignment1\BasicCalculator\obj\Debug\BasicCalculator.exe
 D:\CDAC\M8_DotNet\Dot_Net\Assignment1\BasicCalculator\obj\Debug\BasicCalculator.pdb
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\BasicCalculator\bin\Debug\MathLib.dll
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\BasicCalculator\bin\Debug\MathLib.pdb
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\BasicCalculator\obj\Debug\BasicCalculator.csproj.CopyComplete

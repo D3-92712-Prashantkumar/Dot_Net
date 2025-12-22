@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.ExceptionServices;
-using System.Text;
-using System.Threading.Tasks;
+using MathLib;
 
 namespace BasicCalculator
 {
@@ -11,6 +7,7 @@ namespace BasicCalculator
     {
         static void Main(string[] args)
         {
+            MathLib.Class1 obj = new Class1();
             Console.WriteLine("Welcome to Calculator Console App!");
             string toContinue = "y";
             while (toContinue=="y")
@@ -27,16 +24,16 @@ namespace BasicCalculator
                 switch (choice)
                 {
                     case 1:
-                        Console.WriteLine("Result: "+(num1+num2));
+                        Console.WriteLine("Result: "+obj.Add(num1,num2));
                         break;
                     case 2:
-                        Console.WriteLine("Result: "+(num1-num2));
+                        Console.WriteLine("Result: "+obj.Sub(num1,num2));
                         break;
                     case 3:
-                        Console.WriteLine("Result: "+(num1*num2));
+                        Console.WriteLine("Result: "+obj.Mul(num1,num2));
                         break;
                     case 4:
-                        Console.WriteLine("Result: "+(num1/num2));
+                        Console.WriteLine("Result: "+obj.Div(num1,num2));
                         break;
                     default:
                         Console.WriteLine("Invalid Choice!");

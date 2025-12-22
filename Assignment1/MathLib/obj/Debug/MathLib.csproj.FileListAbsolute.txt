@@ -1,0 +1,6 @@
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\MathLib\bin\Debug\MathLib.dll
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\MathLib\bin\Debug\MathLib.pdb
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\MathLib\obj\Debug\MathLib.csproj.AssemblyReference.cache
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\MathLib\obj\Debug\MathLib.csproj.CoreCompileInputs.cache
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\MathLib\obj\Debug\MathLib.dll
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\MathLib\obj\Debug\MathLib.pdb

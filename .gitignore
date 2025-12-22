@@ -1,5 +1,2 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/Assignment1/BasicCalculator/.vs/BasicCalculator
+﻿
+.vs
