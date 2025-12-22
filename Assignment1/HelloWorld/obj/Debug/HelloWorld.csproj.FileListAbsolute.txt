@@ -1,0 +1,7 @@
+D:\CDAC\M8_DotNet\ClassWork\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\CDAC\M8_DotNet\ClassWork\HelloWorld\bin\Debug\HelloWorld.exe
+D:\CDAC\M8_DotNet\ClassWork\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\CDAC\M8_DotNet\ClassWork\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\CDAC\M8_DotNet\ClassWork\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\CDAC\M8_DotNet\ClassWork\HelloWorld\obj\Debug\HelloWorld.exe
+D:\CDAC\M8_DotNet\ClassWork\HelloWorld\obj\Debug\HelloWorld.pdb
