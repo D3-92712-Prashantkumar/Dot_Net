@@ -1,0 +1,15 @@
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\bin\Debug\net8.0\Q1_SalProcessingSystem.exe
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\bin\Debug\net8.0\Q1_SalProcessingSystem.deps.json
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\bin\Debug\net8.0\Q1_SalProcessingSystem.runtimeconfig.json
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\bin\Debug\net8.0\Q1_SalProcessingSystem.dll
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\bin\Debug\net8.0\Q1_SalProcessingSystem.pdb
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\obj\Debug\net8.0\Q1_SalProcessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\obj\Debug\net8.0\Q1_SalProcessingSystem.AssemblyInfoInputs.cache
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\obj\Debug\net8.0\Q1_SalProcessingSystem.AssemblyInfo.cs
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\obj\Debug\net8.0\Q1_SalProcessingSystem.csproj.CoreCompileInputs.cache
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\obj\Debug\net8.0\Q1_SalProcessingSystem.sourcelink.json
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\obj\Debug\net8.0\Q1_SalProcessingSystem.dll
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\obj\Debug\net8.0\refint\Q1_SalProcessingSystem.dll
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\obj\Debug\net8.0\Q1_SalProcessingSystem.pdb
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\obj\Debug\net8.0\Q1_SalProcessingSystem.genruntimeconfig.cache
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q1_SalProcessingSystem\obj\Debug\net8.0\ref\Q1_SalProcessingSystem.dll
