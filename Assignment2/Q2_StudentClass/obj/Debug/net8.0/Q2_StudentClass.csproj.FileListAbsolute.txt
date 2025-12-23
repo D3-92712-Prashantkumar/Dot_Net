@@ -1,0 +1,15 @@
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\bin\Debug\net8.0\Q2_StudentClass.exe
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\bin\Debug\net8.0\Q2_StudentClass.deps.json
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\bin\Debug\net8.0\Q2_StudentClass.runtimeconfig.json
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\bin\Debug\net8.0\Q2_StudentClass.dll
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\bin\Debug\net8.0\Q2_StudentClass.pdb
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\obj\Debug\net8.0\Q2_StudentClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\obj\Debug\net8.0\Q2_StudentClass.AssemblyInfoInputs.cache
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\obj\Debug\net8.0\Q2_StudentClass.AssemblyInfo.cs
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\obj\Debug\net8.0\Q2_StudentClass.csproj.CoreCompileInputs.cache
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\obj\Debug\net8.0\Q2_StudentClass.sourcelink.json
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\obj\Debug\net8.0\Q2_StudentClass.dll
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\obj\Debug\net8.0\refint\Q2_StudentClass.dll
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\obj\Debug\net8.0\Q2_StudentClass.pdb
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\obj\Debug\net8.0\Q2_StudentClass.genruntimeconfig.cache
+D:\CDAC\M8_DotNet\Dot_Net\Assignment2\Q2_StudentClass\obj\Debug\net8.0\ref\Q2_StudentClass.dll

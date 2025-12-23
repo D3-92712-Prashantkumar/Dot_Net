@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CDAC\\M8_DotNet\\Dot_Net\\Assignment2\\Q1_SalProcessingSystem\\Q1_SalProcessingSystem.csproj",
-      "projectName": "Q1_SalProcessingSystem",
-      "projectPath": "D:\\CDAC\\M8_DotNet\\Dot_Net\\Assignment2\\Q1_SalProcessingSystem\\Q1_SalProcessingSystem.csproj",
+      "projectUniqueName": "D:\\CDAC\\M8_DotNet\\Dot_Net\\Assignment2\\Q2_StudentClass\\Q2_StudentClass.csproj",
+      "projectName": "Q2_StudentClass",
+      "projectPath": "D:\\CDAC\\M8_DotNet\\Dot_Net\\Assignment2\\Q2_StudentClass\\Q2_StudentClass.csproj",
       "packagesPath": "C:\\Users\\prash\\.nuget\\packages\\",
-      "outputPath": "D:\\CDAC\\M8_DotNet\\Dot_Net\\Assignment2\\Q1_SalProcessingSystem\\obj\\",
+      "outputPath": "D:\\CDAC\\M8_DotNet\\Dot_Net\\Assignment2\\Q2_StudentClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
