@@ -1,0 +1,7 @@
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\Q3\bin\Debug\Q3.exe.config
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\Q3\bin\Debug\Q3.exe
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\Q3\bin\Debug\Q3.pdb
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\Q3\obj\Debug\Q3.csproj.AssemblyReference.cache
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\Q3\obj\Debug\Q3.exe
+D:\CDAC\M8_DotNet\Dot_Net\Assignment1\Q3\obj\Debug\Q3.pdb
